@@ -1,6 +1,6 @@
 # Neovim
 
-This repository contains my personal Neovim installation, based on the foundation set by typecraft. See resources.
+This repository contains my personal Neovim configuration, based on the foundation set by typecraft. See resources.
 
 It contains the following goodies:
 - 🎨 A nice color theme by Catpuccin
